@@ -10,3 +10,4 @@
 - ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
 - ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white)
+- ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
